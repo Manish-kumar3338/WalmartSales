@@ -5,5 +5,6 @@ This project is based on the Walmart Sales Dataset , which provides information 
 The main objective of this project is to investigate whether there is a correlation between the columns and weekly sales in Walmart stores. We aim to test the hypothesis that how these factors influences the weekly sales performance. 
 
 # Tools
+Pandas, Numpy, Scikit-learn , matplotlib and seaborn.
 
 
